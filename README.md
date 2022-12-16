@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kinjal Kashyap
+- 👀 I’m interested in web designing.
+- 🌱 I’m currently learning web development.
